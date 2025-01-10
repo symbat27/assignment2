@@ -41,7 +41,7 @@ public class Person implements Comparable<Person> {
     }
 
     public String getPosition() {
-        return "Student"; // Default position
+        return "Student";
     }
 
     @Override
