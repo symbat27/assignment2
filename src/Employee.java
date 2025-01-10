@@ -35,6 +35,6 @@ public class Employee extends Person implements Payable {
 
     @Override
     public double getPaymentAmount() {
-        return salary; // Return the salary for an Employee
+        return salary; 
     }
 }
